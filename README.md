@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, We are KDSS-Research</h1>
 <h3 align="center">I developer of some programs like AVs, Servers and etc...</h3>
 
-- 🔭 I’m currently working on **WavyPacker**
+- 🔭 I’m currently working on **NNTP Explorer,Data Compressor**
 
 - 🌱 I’m currently learning **C#**
 
