@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We are KDSS-Research</h1>
+<h1 align="center">Hi 👋, I am KDSS-Research</h1>
 <h3 align="center">I developer of some programs like AVs, Servers and etc...</h3>
 
 - 🔭 I’m currently working on **NNTP Explorer,Data Compressor**
