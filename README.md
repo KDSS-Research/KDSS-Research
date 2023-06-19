@@ -7,9 +7,9 @@ I, the author of these programs, am not responsible for their use or for actions
 
 <h3 align="center">I developer of some programs like AVs, Servers and etc...</h3>
 
-- 🔭 I’m currently working on **Moon FTP**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KDSS-Research?tab=repositories](https://github.com/KDSS-Research?tab=repositories)
 
