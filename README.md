@@ -7,9 +7,9 @@ I, the author of these programs, am not responsible for their use or for actions
 
 <h3 align="center">I developer of some programs like AVs, Servers and etc...</h3>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Katzen**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C++/C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KDSS-Research?tab=repositories](https://github.com/KDSS-Research?tab=repositories)
 
